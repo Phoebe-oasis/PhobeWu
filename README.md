@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhobeWu
+- 👋 Hi, I’m @Phoebe
 - 🌱 I’m currently learning Python and Java.
 
 <!---
